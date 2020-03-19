@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aixufaenge.jtdq8888.com/sitemap.xml
